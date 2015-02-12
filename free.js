@@ -46,4 +46,5 @@ proto.getDistance = function() { return 0.0 }
 proto.getUp = proto.setCenter = function(t, out) { out[0] = out[1] = out[2]; return out }
 
 function createFreeCameraController() {
+  return new FreeCameraController()
 }

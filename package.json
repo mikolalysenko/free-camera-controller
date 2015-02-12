@@ -2,7 +2,7 @@
   "name": "free-camera-controller",
   "version": "1.0.0",
   "description": "Free look camera controller",
-  "main": "freeview.js",
+  "main": "free.js",
   "scripts": {
     "test": "tape test/*.js"
   },
